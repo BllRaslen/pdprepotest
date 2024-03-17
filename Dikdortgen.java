@@ -48,9 +48,13 @@ public class Dikdortgen {
     //Comment
 	    /* This is a comment */
     //Comment
+	
 	    /* This is a comment */
+	
     //Comment
+	
 	    /*This is a comment*/
+	
     //Comment
 	    /*This is a comment*/
     //Comment
