@@ -1,3 +1,11 @@
+
+    /**(12)
+     *  (13)
+         yorum satiri(14)
+        assagisi 2 satir bosluk    (15)
+
+
+     (18)*/
 /** (1)
  *  (2)Bu sınıf, bir dikdörtgenin alanını ve çevresini hesaplamak için kullanılır.
  (3)*/ 
