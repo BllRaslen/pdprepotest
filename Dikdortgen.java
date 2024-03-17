@@ -62,7 +62,14 @@ public class Dikdortgen {
 	
 	
 	
-	*******/
+	///////*******/
+	/*
+ //Mer
+ //Merhaba
+ /*Merhaba 
+ //MERR
+ */
+ */
 	
 	
 	
